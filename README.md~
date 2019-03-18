@@ -6,5 +6,5 @@ Every week, new image fusion papers are coming out and it's hard to keep track o
 * Pixel-level image fusion - [S. Li, X. Kang, L. Fang, J. Hu, H. Yin, Pixel-level image fusion: a survey of the state
 of the art, Inf. Fusion 33 (2017) 100–112.](http://refhub.elsevier.com/S1566-2535(17)30593-6/sbref0002) 
 * Multi-focus image fusion - [Y. Liu, X. Chen, H. Peng, Z. Wang, Multi-focus image fusion with a deep con-
-volutional neural network, Inf. Fusion 36 (2017) 191–207.](http://refhub.elsevier.com/S1566-2535(17)30593-6/sbref0006) 
+volutional neural network, Inf. Fusion 36 (2017) 191–207.](https://arxiv.org/abs/1610.07584) ([github](https://github.com/zck119/3dgan-release))
 
