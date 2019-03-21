@@ -15,7 +15,7 @@
 
 - <a name="todo"></a>  LAB IVRL RGB-NIR Scene Dataset[[download](https://ivrl.epfl.ch/research-2/research-downloads/supplementary_material-cvpr11-index-html/)]
 
-- <a name="todo"></a>  LITIV-VAP dataset [[LAB website](https://www.polymtl.ca/litiv/codes-et-bases-de-donnees)[download](https://drive.google.com/open?id=0B55Ba7lWTLh4SzlQWEN5bXJjc0U)]
+- <a name="todo"></a>  LITIV-VAP dataset [[LAB website](https://www.polymtl.ca/litiv/codes-et-bases-de-donnees)][[download](https://drive.google.com/open?id=0B55Ba7lWTLh4SzlQWEN5bXJjc0U)]
 
 - <a name="todo"></a>  NOAA Geostationary satellite server [[website](https://www.goes.noaa.gov/)]
 
@@ -84,6 +84,20 @@
 
 ## 4. Papers
 
+### 4.0 Survey
+
+#### 2019
+- <a name="todo"></a> Efficient Lifelong Learning with A-GEM (**ICLR2019**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
+
+#### 2018
+ - <a name="todo"></a> Reinforced Continual Learning (**NIPS2018**) [[paper](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)] [[code](https://github.com/xujinfan/Reinforced-Continual-Learning)]
+
+#### 2017
+- <a name="todo"></a> Overcoming catastrophic forgetting in neural networks (EWC) (**PNAS2017**) [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic)] [[code](https://github.com/stokesj/EWC)]
+
+#### 2016
+- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+
 ### 4.1 Infrared-Visible
 
 #### 2019
@@ -98,6 +112,33 @@
 #### 2016
 - <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
 
+### 4.2 Multi-Focus Fusion
+
+#### 2019
+- <a name="todo"></a> Efficient Lifelong Learning with A-GEM (**ICLR2019**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
+
+#### 2018
+ - <a name="todo"></a> Reinforced Continual Learning (**NIPS2018**) [[paper](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)] [[code](https://github.com/xujinfan/Reinforced-Continual-Learning)]
+
+#### 2017
+- <a name="todo"></a> Overcoming catastrophic forgetting in neural networks (EWC) (**PNAS2017**) [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic)] [[code](https://github.com/stokesj/EWC)]
+
+#### 2016
+- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+
+### 4.3 Others
+
+#### 2019
+- <a name="todo"></a> Efficient Lifelong Learning with A-GEM (**ICLR2019**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
+
+#### 2018
+ - <a name="todo"></a> Reinforced Continual Learning (**NIPS2018**) [[paper](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)] [[code](https://github.com/xujinfan/Reinforced-Continual-Learning)]
+
+#### 2017
+- <a name="todo"></a> Overcoming catastrophic forgetting in neural networks (EWC) (**PNAS2017**) [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic)] [[code](https://github.com/stokesj/EWC)]
+
+#### 2016
+- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
 
 
 
