@@ -104,11 +104,11 @@
 
  - <a name="todo"></a> Medical image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2013.12.002)]
 
-#### before 2016
+#### before
 
  - <a name="todo"></a> Pixel-level image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2016.05.004)]
 
-  - <a name="todo"></a> A general framework for multiresolution image fusion: from pixels to regions  (**Information Fusion**) [[paper](https://doi.org/10.1016/S1566-2535(03)00046-0)]
+  - <a name="todo"></a> A general framework for multiresolution image fusion: from pixels to regions  (**Information Fusion 2003**) [[paper](https://doi.org/10.1016/S1566-2535(03)00046-0)]
 
 ### 4.1 Infrared-Visible Fusion
 
@@ -158,7 +158,7 @@
 
  - <a name="todo"></a> A medical image fusion method based on convolutional neural networks (**ICIF 2017**) [[paper](https://ieeexplore.ieee.org/document/8009769/)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
 
-#### before 2016
+#### before
 
  - <a name="todo"></a> A general framework for image fusion based on multi-scale transform and sparse representation (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2014.09.004)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
 
