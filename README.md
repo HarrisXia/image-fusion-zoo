@@ -21,7 +21,7 @@
 
 - <a name="todo"></a>  CVC-09: FIR Sequence Pedestrian Dataset [[download](http://adas.cvc.uab.es/elektra/enigma-portfolio/item-1/)]
 
-#####* OTCBVS Benchmark Dataset Collection:
+**OTCBVS Benchmark Dataset Collection:**
 
 - <a name="todo"></a>  OSU Thermal Pedestrian Database [[download](http://vcipl-okstate.org/pbvs/bench/Data/01/download.html)]
 
