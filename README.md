@@ -76,9 +76,9 @@
 
 ### 3.1 Journals
 
-- <a name="todo"></a>  Information Fusion - Journal - Elsevier [[website](https://www.journals.elsevier.com/information-fusion/)]
+- <a name="todo"></a>  **Information Fusion** - Journal - Elsevier [[website](https://www.journals.elsevier.com/information-fusion/)]
 
-- <a name="todo"></a>  Infrared Physics & Technology - Journal - Elsevier [[website](https://www.journals.elsevier.com/infrared-physics-and-technology/)]
+- <a name="todo"></a>  **Infrared Physics & Technology** - Journal - Elsevier [[website](https://www.journals.elsevier.com/infrared-physics-and-technology/)]
 
 ### 3.2 Pages
 
@@ -89,14 +89,26 @@
 ### 4.0 Survey
 
 #### 2019
-- <a name="todo"></a> Infrared and visible image fusion methods and applications: A survey (**Information Fusion**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://doi.org/10.1016/j.inffus.2018.02.004)]
+- <a name="todo"></a> Infrared and visible image fusion methods and applications: A survey (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2018.02.004)]
+
+- <a name="todo"></a> A survey on region based image fusion methods y (**Information Fusion**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[paper](https://doi.org/10.1016/j.inffus.2018.07.010)]
 
 #### 2018
  - <a name="todo"></a> A survey of infrared and visual image fusion methods (**Infrared Physics & Technology**) [[paper](https://doi.org/10.1016/j.infrared.2017.07.010)]
 
+ - <a name="todo"></a> Deep learning for pixel-level image fusion: Recent advances and future prospects (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2017.10.007)]
+
+ - <a name="todo"></a> Sparse representation based multi-sensor image fusion for multi-focus and multi-modality images: A review  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2017.05.006)]
+
 #### 2017
 
-#### 2016
+ - <a name="todo"></a> Medical image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2013.12.002)]
+
+#### before 2016
+
+ - <a name="todo"></a> Pixel-level image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2016.05.004)]
+
+  - <a name="todo"></a> A general framework for multiresolution image fusion: from pixels to regions  (**Information Fusion**) [[paper](https://doi.org/10.1016/S1566-2535(03)00046-0)]
 
 ### 4.1 Infrared-Visible Fusion
 
@@ -140,9 +152,14 @@
 
 #### 2018
 
+ - <a name="todo"></a> Medical image fusion with parameter-adaptive pulse coupled neural network in nonsubsampled shearlet transform domain (**IEEE Transactions on Instrumentation and Measurement**) [[paper](https://ieeexplore.ieee.org/document/8385209)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
+
 #### 2017
 
-#### 2016
+ - <a name="todo"></a> A medical image fusion method based on convolutional neural networks (**ICIF 2017**) [[paper](https://ieeexplore.ieee.org/document/8009769/)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
 
+#### before 2016
 
+ - <a name="todo"></a> A general framework for image fusion based on multi-scale transform and sparse representation (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2014.09.004)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
 
+  - <a name="todo"></a> A Neuro-Fuzzy Approach for Medical Image Fusion  (**IEEE Engineering in Medicine and Biology Society**) [[paper](https://ieeexplore.ieee.org/abstract/document/6603271)]  [[code](https://drive.google.com/file/d/0Bxq5-QWgPHedWXcxTzBGVkMtejQ/view)]
