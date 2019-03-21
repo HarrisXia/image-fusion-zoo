@@ -5,9 +5,9 @@
 
 ### Infrared-Visible
 
-#### Caltech Pedestrian Detection Benchmark[[download](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)]
+#### Caltech Pedestrian Detection Benchmark [[download](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)]
 
-#### CVC-09: FIR Sequence Pedestrian Dataset[[download](http://adas.cvc.uab.es/elektra/enigma-portfolio/item-1/)]
+#### CVC-09: FIR Sequence Pedestrian Dataset [[download](http://adas.cvc.uab.es/elektra/enigma-portfolio/item-1/)]
 
 #### OSU Thermal Pedestrian Database[[download](http://vcipl-okstate.org/pbvs/bench/Data/01/download.html)]
 
