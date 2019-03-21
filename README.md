@@ -106,7 +106,7 @@
 #### 2018
  - <a name="todo"></a> Infrared and Visible Image Fusion with ResNet and zero-phase component analysis [[paper](https://arxiv.org/abs/1806.07119)] [[code](https://github.com/hli1221/imagefusion_resnet50)]
 
-- <a name="todo"></a> DenseFuse: A Fusion Approach to Infrared and Visible Images (**IEEE Trans. Image Process.**) [[paper](https://arxiv.org/abs/1804.08361)] [[code](https://github.com/hli1221/imagefusion_densefuse] [[code](https://github.com/srinu007/MultiModelImageFusion)]
+- <a name="todo"></a> DenseFuse: A Fusion Approach to Infrared and Visible Images (**IEEE Trans. Image Process.**) [[paper](https://arxiv.org/abs/1804.08361)][[code](https://github.com/hli1221/imagefusion_densefuse][[code](https://github.com/srinu007/MultiModelImageFusion)]
 
 - <a name="todo"></a> Infrared and Visible Image Fusion using a Deep Learning Framework(**ICPR2017**) [[paper](https://arxiv.org/pdf/1804.06992)] [[code](https://github.com/hli1221/imagefusion_deeplearning)]
 
