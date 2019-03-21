@@ -91,7 +91,7 @@
 #### 2019
 - <a name="todo"></a> Infrared and visible image fusion methods and applications: A survey (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2018.02.004)]
 
-- <a name="todo"></a> A survey on region based image fusion methods y (**Information Fusion**) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[paper](https://doi.org/10.1016/j.inffus.2018.07.010)]
+- <a name="todo"></a> A survey on region based image fusion methods (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2018.07.010)]
 
 #### 2018
  - <a name="todo"></a> A survey of infrared and visual image fusion methods (**Infrared Physics & Technology**) [[paper](https://doi.org/10.1016/j.infrared.2017.07.010)]
@@ -134,6 +134,9 @@
 
 #### 2017
 
+- <a name="todo"></a> Infrared and visual image fusion through infrared feature extraction and visual information preservation [[paper](http://dx.doi.org/10.1016/j.infrared.2017.05.007)][[code](https://github.com/uzeful/Infrared-and-Visual-Image-Fusion-via-Infrared-Feature-Extraction-and-Visual-Information-Preservation)]
+
+
 #### 2016
 
 ### 4.2 Multi-Focus Fusion
@@ -143,6 +146,8 @@
 #### 2018
 
 #### 2017
+
+- <a name="todo"></a> Multi-focus image fusion with a deep convolutional neural network [[paper](http://dx.doi.org/10.1016/j.inffus.2016.12.001)]
 
 #### 2016
 
