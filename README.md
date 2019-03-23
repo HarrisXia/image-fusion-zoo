@@ -84,6 +84,40 @@
 
 - <a name="todo"></a>  metapix solutions beyond the pictures [[website](http://www.metapix.de/fusion.htm)]
 
+### 3.3 Researchers
+
+- <a name="todo"></a>  **Durga Prasad Bavirisetti** [[website](https://sites.google.com/view/durgaprasadbavirisetti/home)] [[google scholar](https://scholar.google.com/citations?user=hc0VdQQAAAAJ&hl=zh-CN&oi=sra)]
+
+- <a name="todo"></a>  **Sudeb Das** [[website](https://sites.google.com/site/wodrsdas/publica)] [[google scholar](https://scholar.google.com/citations?user=viK7TRUAAAAJ&hl=zh-CN&oi=sra)]
+
+- <a name="todo"></a>  **Junjun Jiang** [[website](https://jiangjunjun.wordpress.com/)] [[github](https://github.com/junjun-jiang)]
+
+- <a name="todo"></a>  **Xudong Kang** [[website](http://xudongkang.weebly.com/)]
+
+- <a name="todo"></a>  **Malay Kumar Kundu** [[website](https://www.isical.ac.in/~malay/)] [[google scholar](https://scholar.google.com/citations?user=0589ICUAAAAJ&hl=zh-CN&oi=sra)]
+
+- <a name="todo"></a>  **Chang Li** [[website](http://www.escience.cn/people/lichang/index.html)] [[github](https://github.com/Chang-Li-HFUT)]
+
+- <a name="todo"></a>  **Hui Li** [[website](https://hli1221.github.io/)] [[github](https://github.com/hli1221)] [[github](https://github.com/exceptionLi)]
+
+- <a name="todo"></a>  **Yu Liu** [[website](http://www.escience.cn/people/liuyu1/index.html)] [[google scholar](https://sites.google.com/site/yuliu316316/)] [[codes](http://www.escience.cn/people/liuyu1/Codes.html)]
+
+- <a name="todo"></a>  **Jinlei Ma** [[github](https://github.com/JinleiMa)]
+
+- <a name="todo"></a>  **Jiayi Ma** [[website](http://www.escience.cn/people/jiayima/index.html)] [[github](https://github.com/jiayi-ma)]
+
+- <a name="todo"></a>  **VPS Naidu** [[google scholar](https://scholar.google.com/citations?user=pdAZ1wsAAAAJ&hl=zh-CN&oi=sra)] [[codes](https://ww2.mathworks.cn/matlabcentral/fileexchange/?term=authorid%3A104729)]
+
+- <a name="todo"></a>  **Jin Xin** [[github](https://github.com/jinxinhuo)]
+
+- <a name="todo"></a>  **Kun Zhan** [[website](https://kunzhan.github.io/)] [[github](https://github.com/kunzhan)]
+
+- <a name="todo"></a>  **Yu Zhang** [[website](https://uzeful.github.io/)] [[github](https://github.com/uzeful)]
+
+- <a name="todo"></a>  **Jufeng Zhao** [[website](http://mypage.hdu.edu.cn/en/zhaojufeng)]
+
+- <a name="todo"></a>  **Zhiqiang Zhou** [[website](http://ac.bit.edu.cn/szdw/jsdw/mssbyznxtyjs_20150206131517284801/20150206115445413049_20150206131517284801/index.htm)] [[github](https://github.com/bitzhouzq)]
+
 ## 4. Papers
 
 ### 4.0 Survey
@@ -168,3 +202,5 @@
  - <a name="todo"></a> A general framework for image fusion based on multi-scale transform and sparse representation (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2014.09.004)]  [[code](http://www.escience.cn/people/liuyu1/Codes.html)]
 
   - <a name="todo"></a> A Neuro-Fuzzy Approach for Medical Image Fusion  (**IEEE Engineering in Medicine and Biology Society**) [[paper](https://ieeexplore.ieee.org/abstract/document/6603271)]  [[code](https://drive.google.com/file/d/0Bxq5-QWgPHedWXcxTzBGVkMtejQ/view)]
+
+###Updated20190323
