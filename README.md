@@ -177,7 +177,25 @@
 
 #### 2019
 
+- <a name="todo"></a> Multi-focus image fusion using deep support value convolutional neural network [[paper](https://doi.org/10.1016/j.ijleo.2018.09.089)]
+
 #### 2018
+
+- <a name="todo"></a> Robust sparse representation based multi-focus image fusion with dictionary construction and local spatial consistency [[paper](https://doi.org/10.1016/j.patcog.2018.06.003)]
+
+- <a name="todo"></a> Multi-focus image fusion based on edges and focused region extraction [[paper](https://doi.org/10.1016/j.ijleo.2018.06.093)]
+
+- <a name="todo"></a> Multi-focus: Focused region finding and multi-scale transform for image fusion [[paper](https://doi.org/10.1016/j.neucom.2018.09.018)]
+
+- <a name="todo"></a> Fully Convolutional Network-Based Multifocus Image Fusion [[paper](https://doi.org/10.1162/neco_a_01098)]
+
+- <a name="todo"></a> Convolutional Neural Network Based Multi-Focus Image Fusion [[paper](https://dl.acm.org/citation.cfm?id=3242863)]
+
+- <a name="todo"></a> Pixel convolutional neural network for multi-focus image fusion [[paper](https://doi.org/10.1016/j.ins.2017.12.043)]
+
+- <a name="todo"></a> Multi-focus image fusion with the all convolutional neural network [[paper](https://link.springer.com/article/10.1007/s11801-018-7207-x)]
+
+- <a name="todo"></a> Neural Network Based Multi-Focus Image Fusion [[paper](http://www.ijaerd.com/papers/finished_papers/Neural_Network_Based_Multi-Focus_Image_Fusion-IJAERDV05I0425704.pdf)]
 
 #### 2017
 
