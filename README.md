@@ -7,13 +7,13 @@
 
 - <a name="todo"></a>  IRICRA Thermal Infrared Dataset [[download](https://projects.asl.ethz.ch/datasets/doku.php?id=ir:iricra2014)]
 
-- <a name="todo"></a>  TNO_Image_Fusion_Dataset[[download](https://figshare.com/articles/TNO_Image_Fusion_Dataset/1008029)]
+- <a name="todo"></a>  TNO_Image_Fusion_Dataset [[download](https://figshare.com/articles/TNO_Image_Fusion_Dataset/1008029)]
 
-- <a name="todo"></a>  Bristol Eden Project Multi-Sensor Data Set[[download](http://www.cis.rit.edu/pelz/scanpaths/data/bristol-eden.htm)]
+- <a name="todo"></a>  Bristol Eden Project Multi-Sensor Data Set [[download](http://www.cis.rit.edu/pelz/scanpaths/data/bristol-eden.htm)]
 
-- <a name="todo"></a>  SMT/COPPE/Poli/UFRJ Visible-Infrared Database[[download](http://www02.smt.ufrj.br/~fusion/)]
+- <a name="todo"></a>  SMT/COPPE/Poli/UFRJ Visible-Infrared Database [[download](http://www02.smt.ufrj.br/~fusion/)]
 
-- <a name="todo"></a>  LAB IVRL RGB-NIR Scene Dataset[[download](https://ivrl.epfl.ch/research-2/research-downloads/supplementary_material-cvpr11-index-html/)]
+- <a name="todo"></a>  LAB IVRL RGB-NIR Scene Dataset [[download](https://ivrl.epfl.ch/research-2/research-downloads/supplementary_material-cvpr11-index-html/)]
 
 - <a name="todo"></a>  LITIV-VAP dataset [[LAB website](https://www.polymtl.ca/litiv/codes-et-bases-de-donnees)][[download](https://drive.google.com/open?id=0B55Ba7lWTLh4SzlQWEN5bXJjc0U)]
 
