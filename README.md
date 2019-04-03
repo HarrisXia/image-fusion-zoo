@@ -142,7 +142,7 @@
 
  - <a name="todo"></a> Pixel-level image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2016.05.004)]
 
-  - <a name="todo"></a> A general framework for multiresolution image fusion: from pixels to regions  (**Information Fusion 2003**) [[paper](https://doi.org/10.1016/S1566-2535(03)00046-0)]
+  - <a name="todo"></a> Medical image fusion: A survey of the state of the art  (**Information Fusion**) [[paper](https://doi.org/10.1016/j.inffus.2013.12.002)]
 
 ### 4.1 Infrared-Visible Fusion
 
