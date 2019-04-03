@@ -223,4 +223,4 @@
 
   - <a name="todo"></a> A Neuro-Fuzzy Approach for Medical Image Fusion  (**IEEE Engineering in Medicine and Biology Society**) [[paper](https://ieeexplore.ieee.org/abstract/document/6603271)]  [[code](https://drive.google.com/file/d/0Bxq5-QWgPHedWXcxTzBGVkMtejQ/view)]
 
-### Updated20190323
+### Updated20190403
