@@ -156,7 +156,7 @@
 
 - <a name="todo"></a> DenseFuse: A Fusion Approach to Infrared and Visible Images (**IEEE Trans. Image Process.**) [[paper](https://arxiv.org/abs/1804.08361)] [[code](https://github.com/hli1221/imagefusion_densefuse)] [[code](https://github.com/srinu007/MultiModelImageFusion)]
 
-- <a name="todo"></a> Infrared and Visible Image Fusion using a Deep Learning Framework(**ICPR2018**) [[paper](https://arxiv.org/pdf/1804.06992)] [[code](https://github.com/hli1221/imagefusion_deeplearning)]
+- <a name="todo"></a> Infrared and Visible Image Fusion using a Deep Learning Framework(**ICPR2017**) [[paper](https://arxiv.org/pdf/1804.06992)] [[code](https://github.com/hli1221/imagefusion_deeplearning)]
 
 - <a name="todo"></a> Infrared and visible image fusion using Latent Low-Rank Representation [[paper](https://arxiv.org/abs/1804.08992)] [[code](https://github.com/exceptionLi/imagefusion_Infrared_visible_latlrr)]
 
@@ -208,8 +208,6 @@
 ### 4.3 Others
 
 #### 2019
- - <a name="todo"></a> Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net [[paper](https://arxiv.org/pdf/1901.03281.pdf)]
-
 
 #### 2018
 
@@ -225,4 +223,4 @@
 
   - <a name="todo"></a> A Neuro-Fuzzy Approach for Medical Image Fusion  (**IEEE Engineering in Medicine and Biology Society**) [[paper](https://ieeexplore.ieee.org/abstract/document/6603271)]  [[code](https://drive.google.com/file/d/0Bxq5-QWgPHedWXcxTzBGVkMtejQ/view)]
 
-### Updated20190417
+### Updated20190323
